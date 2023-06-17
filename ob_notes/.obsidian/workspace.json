@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "1f999deb19c1bb35",
+    "type": "split",
+    "children": [
+      {
+        "id": "0333c3d5c084ff5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4c343e4ed48e637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "games/games101/5.Ray Tracing光线追踪.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d3d8500c340a951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "games/games101/6.Materials and Appearances 材质与外观.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba01b02c260fcae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "games/games101/7.Rendering——Advanced Topics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8de63f745dfbeb2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "games/games101/8.Cameras-Lenses-Light Fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1170c0d4ee26c3b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "games/games101/9.Color and Perception.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5bebd5baf48dc4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "games/games101/10.Animation-Simulation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f7490213a826f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "1509c210556ac68b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09a97947798abb09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "055f0b6a9c1f46ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#提示",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bab666ac97e7f12",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "08e4ab2a11cec1f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "071c720118bdfa90",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a2a46e252de0f2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f45185ae1b036942",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "games/games101/10.Animation-Simulation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4627f4c2c0b7e188",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "games/games101/10.Animation-Simulation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8b7854593f04d3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fec4baef3199b3fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "games/games101/10.Animation-Simulation.md"
+              }
+            }
+          },
+          {
+            "id": "9ba7b950f99f4629",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "a5bebd5baf48dc4d",
+  "lastOpenFiles": [
+    "games/games101/9.Color and Perception.md",
+    "games/games101/8.Cameras-Lenses-Light Fields.md",
+    "games/games101/7.Rendering——Advanced Topics.md",
+    "games/games101/6.Materials and Appearances 材质与外观.md",
+    "games/games101/5.Ray Tracing光线追踪.md",
+    "games/games101/4.Geometry.md",
+    "games/games101/3. Shading(shading-pipeline-texture).md",
+    "games/games101/2. Rasterization光栅化.md",
+    "games/games101/1. vector-matrix-viewing transformation.md",
+    "games/games101/10.Animation-Simulation.md",
+    "attachment/Pasted image 20230617104445.png",
+    "attachment/d65041734650cbcbf12019e0c115621.jpg",
+    "attachment/Pasted image 20230617102159.png",
+    "attachment/Pasted image 20230617101523.png",
+    "attachment/Pasted image 20230617100940.png",
+    "attachment/Pasted image 20230617095909.png",
+    "attachment/Pasted image 20230617095015.png",
+    "attachment/Pasted image 20230617092930.png",
+    "attachment/Pasted image 20230617092428.png",
+    "attachment/Pasted image 20230617092118.png",
+    "attachment",
+    "games/games101",
+    "games",
+    "01 日记/2023_06_06 周二.md",
+    "01 日记",
+    "00 Inbox",
+    "00 Inbox/Markdown语法.md",
+    "00 Inbox/链接使用.md",
+    "00 Inbox/mind map.md",
+    "00 Inbox/被链接的内容.md",
+    "00 Inbox/快捷键.md",
+    "01 日记/2023_03_23 周四.md",
+    "01 日记/2023_03_09 周四.md",
+    "01 日记/2023_03_03 周五.md",
+    "00 templates/日记模板.md",
+    "Excalidraw/Drawing 2023-03-06 12.35.27.excalidraw.md",
+    "01 日记/2023_03_06 周一.md",
+    "Excalidraw",
+    "00 templates/会议记录模板.md",
+    "02 会议记录/使用会议记录模板.md",
+    "02 会议记录",
+    "00 templates",
+    "01 日记",
+    "未命名.canvas",
+    "Hello World.md",
+    "attachment"
+  ]
+}

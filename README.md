@@ -1,2 +1,14 @@
 # CG_learning
-The process of learning CG(Computer Graphics)
+> The process of learning CG(Computer Graphics)
+
+# 文件夹介绍
+
+* ob_notes:用Obsidian笔记软件记录的笔记
+
+# 学习过程
+
+**2023/6/17**
+
+花了十天时间看完了games101的课程（但是还没有做hw），发现原来图形学涉及到的东西这么多，每个方向要牵涉到的知识面也非常广。
+我想着先看视频了解一下，然后再找老师进实验室了解了解，如果合适的话到时候考研读个研也不错（毕竟将来工作后可能就没心思准备留学了/(ㄒoㄒ)/~~）。
+刚好马上就要到考试周了，也没时间去做hw，等到考试结束了，暑假再做hw吧。
